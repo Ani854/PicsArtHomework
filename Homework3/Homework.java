@@ -67,7 +67,6 @@ public class Homework {
         System.out.println(count);
 
         System.out.println("Task 7 : Given an integer , 0 < N < 21 ,print its first 10 multiples. ");
-
         int N = 5;
         for (int i = 0; i < 11; i++) {
             System.out.printf("%d x %d = %d", N, i, N * i);
